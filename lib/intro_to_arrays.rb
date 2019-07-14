@@ -26,7 +26,7 @@ end
 
 
 def third_element(arr)
-    return arr[arr.length-2]
+    return arr[2]
 end
 
 def last_element(arr)
